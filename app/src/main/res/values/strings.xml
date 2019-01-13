@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">EightSensors</string>
+
+    <!-- TEXTS -->
+
+    <string name="accel">Accelometer</string>
+    <string name="gyro">Gyroscope</string>
+    <string name="light">Light</string>
+    <string name="mag">Magnetic Field</string>
+    <string name="press">Pressure</string>
+    <string name="prox">Proximity</string>
+    <string name="temp">Temperature</string>
+    <string name="grav">Gravity</string>
+
+    <string name="empty">-</string>
+
+</resources>
