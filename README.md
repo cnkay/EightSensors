@@ -7,4 +7,4 @@ Sensor Test for Android Devices
 
 
 
-![alt text](https://cdn.pbrd.co/images/HWcR7FS.png)
+![alt text](https://github.com/cnkay/EightSensors/blob/master/Image.png)
