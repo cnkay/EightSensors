@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/cenk/Desktop/AndroidDev/sensorProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/home/cenk/Desktop/aaa/EightSensors/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/cenk/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e9aab93e61dbb7f97aab63b376aa3bcc/res/values-v24/values-v24.xml",
+                    "source": "/home/cenk/.gradle/caches/transforms-2/files-2.1/9494791943963a59a16f1e7d60751473/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
